@@ -169,3 +169,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+rental_env/bin/pip3
+rental_env/bin/pip
+rental_env/bin/pip3.9
+rental_env/bin/python
+rental_env/bin/python3
+rental_env/bin/python3.9
+rental_env/pyvenv.cfg
+rental_env/bin/activate
+rental_env/bin/activate.csh
+rental_env/bin/activate.fish
+rental_env/bin/Activate.ps1
+rental_env/bin/keyring
